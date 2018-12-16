@@ -4,7 +4,7 @@
 # Things to know:
 - Contains the following files (and associated requirements):
    * prepare.py  -- deployment flow script, tested with Python 3.5
-   * docker_compose.yml  -- docker-compose configuration file, tested with docker-compose v1.23.2
+   * docker-compose.yml  -- docker-compose configuration file, tested with docker-compose v1.23.2
 
 - Designed to be placed in the exercise application's root directory and executed using 'python3 prepare.py'.
  
